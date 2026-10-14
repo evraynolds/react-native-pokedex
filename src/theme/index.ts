@@ -1,0 +1,2 @@
+export { colorByTypes } from './colors';
+
